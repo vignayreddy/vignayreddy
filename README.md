@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<div align="center">
+
 # 💫 About Me:
 ## &nbsp;&nbsp;&nbsp;&nbsp;A web development and machine learning enthusiast from India.
 
@@ -10,12 +12,15 @@
 📫 How to reach me: [vignayreddymuduganti@gmail.com](mailto:vignayreddymuduganti@gmail.com)  
 👨‍💻 All of my projects are available at [github.com/vignayreddy](https://github.com/vignayreddy?tab=repositories)
 
+</div>
+
 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vignay_reddy_muduganti)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vignayreddy-muduganti)  
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Vignayreddy91479)  
+
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vignayreddymuduganti@gmail.com)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-vignayreddy-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/vignayreddy)  
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-vignayreddyrgyp-0F9D58?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/vignayreddyrgyp)
