@@ -7,7 +7,7 @@
 
 ---
 
-🌱 I’m currently learning Next.js and machine learning  
+🌱 I’m currently learning machine learning  
 💬 Ask me about machine learning techniques and DSA  
 📫 How to reach me: [vignayreddymuduganti@gmail.com](mailto:vignayreddymuduganti@gmail.com)  
 👨‍💻 All of my projects are available at [github.com/vignayreddy](https://github.com/vignayreddy?tab=repositories)
