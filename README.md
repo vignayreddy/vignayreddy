@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm VIGNAY REDDY</h1>
-<h2 align="center">🔬 A Passionate AI and Data Science Enthusiast from India</h3>
-
+<p align="center" style="font-size:28px; font-weight:900; line-height:1.2;">
+🔬 A Passionate AI and Data Science Enthusiast from India
+</p>
 
 
 
