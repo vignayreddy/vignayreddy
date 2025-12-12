@@ -7,14 +7,13 @@
 
 ### 🚀 Proof of Work
 
-- 🔭 I’m currently working on **MLOPS and Model Optimization**
+
 
 - 🌱 I’m currently learning **MLOps,Model Evaluation & Optimization**
 
 - 🤝 I’m looking for help with **Advanced AI architectures and Large datasets and experimentation**
-- 
-- 👨‍💻 All of my projects are available at [https://github.com/vignayreddy?tab=repositories](https://github.com/vignayreddy?tab=repositories)
 
+- 👨‍💻 All of my projects are available at [https://github.com/vignayreddy?tab=repositories](https://github.com/vignayreddy?tab=repositories)
 
 - 💬 Ask me about **ML, DL ,Data Science and NLP**
 
