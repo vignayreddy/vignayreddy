@@ -1,11 +1,19 @@
 <h1 align="center">Hi 👋, I'm VIGNAY REDDY</h1>
-<h3 align="center">🔬 A Passionate AI and Data Science Enthusiast from India</h3>
+<h2 align="center">🔬 A Passionate AI and Data Science Enthusiast from India</h3>
+
+
+
+
+### 🚀 Proof of Work
 
 - 🔭 I’m currently working on **MLOPS and Model Optimization**
 
 - 🌱 I’m currently learning **MLOps,Model Evaluation & Optimization**
 
 - 🤝 I’m looking for help with **Advanced AI architectures and Large datasets and experimentation**
+- 
+- 👨‍💻 All of my projects are available at [https://github.com/vignayreddy?tab=repositories](https://github.com/vignayreddy?tab=repositories)
+
 
 - 💬 Ask me about **ML, DL ,Data Science and NLP**
 
@@ -29,3 +37,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vignayreddy&show_icons=true&locale=en&layout=compact" alt="vignayreddy" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vignayreddy&show_icons=true&locale=en" alt="vignayreddy" /></p>
+
+
