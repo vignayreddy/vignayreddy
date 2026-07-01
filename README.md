@@ -47,42 +47,18 @@
 
 
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Core Tools
 
-<details>
-<summary><b>⚡ Click to Expand</b></summary>
+| Field | Technologies & Frameworks |
+| :--- | :--- |
+| **🐍 Languages** | <img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" height="30"/> <img src="https://skillicons.dev/icons?i=java" title="Java" alt="Java" height="30"/> <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" height="30"/> <img src="https://skillicons.dev/icons?i=c" title="C" alt="C" height="30"/> |
+| **📊 Data Science & ML** | <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white" title="Scikit-Learn" alt="Scikit-Learn" height="30"/> <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white" title="NumPy" alt="NumPy" height="30"/> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white" title="Pandas" alt="Pandas" height="30"/> <img src="https://skillicons.dev/icons?i=flask" title="Flask" alt="Flask" height="30"/> |
+| **🧠 Deep Learning & NLP** | <img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch" alt="PyTorch" height="30"/> <img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow" alt="TensorFlow" height="30"/> <img src="https://skillicons.dev/icons?i=keras" title="Keras" alt="Keras" height="30"/> |
+| **🤖 GenAI & Agentic Systems** | <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=flat&logo=chainlink&logoColor=white" title="LangChain Framework" alt="LangChain" height="30"/> <img src="https://img.shields.io/badge/LangGraph-2C4C4A?style=flat&logo=gitgraph&logoColor=white" title="LangGraph (Agent Workflows)" alt="LangGraph" height="30"/> <img src="https://img.shields.io/badge/LangSmith-0C2C2A?style=flat&logo=datadog&logoColor=white" title="LangSmith Evaluation" alt="LangSmith" height="30"/> <img src="https://img.shields.io/badge/AI%20Agents-🔥-orange?style=flat" title="Autonomous AI Agents & Swarms" alt="AI Agents" height="30"/> |
+| **⚡ Vector DBs & Search** | <img src="https://img.shields.io/badge/ChromaDB-709AE1?style=flat" title="ChromaDB (Vector Database)" alt="ChromaDB" height="30"/> <img src="https://img.shields.io/badge/FAISS-00599C?style=flat" title="Facebook AI Similarity Search (FAISS)" alt="FAISS" height="30"/> |
+| **☁️ MLOps & Infrastructure** | <img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" height="30"/> <img src="https://skillicons.dev/icons?i=jenkins" title="Jenkins" alt="Jenkins" height="30"/> <img src="https://skillicons.dev/icons?i=aws" title="AWS" alt="AWS" height="30"/> <img src="https://skillicons.dev/icons?i=azure" title="Azure" alt="Azure" height="30"/> <img src="https://skillicons.dev/icons?i=gcp" title="Google Cloud Platform" alt="GCP" height="30"/> |
+| **🗄️ Databases & Versioning** | <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" alt="MongoDB" height="30"/> <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" height="30"/> <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" height="30"/> |
 
-### 💻 Languages
-<p align="center">
-<img title="C" src="https://skillicons.dev/icons?i=c"/>
-<img title="Python" src="https://skillicons.dev/icons?i=python"/>
-<img title="Java" src="https://skillicons.dev/icons?i=java"/>
-<img title="HTML5" src="https://skillicons.dev/icons?i=html"/>
-<img title="CSS3" src="https://skillicons.dev/icons?i=css"/>
-<img title="JavaScript" src="https://skillicons.dev/icons?i=js"/>
-<img title="React" src="https://skillicons.dev/icons?i=react"/>
-</p>
-
-### 🤖 AI & Cloud
-<p align="center">
-<img title="PyTorch" src="https://skillicons.dev/icons?i=pytorch"/>
-<img title="TensorFlow" src="https://skillicons.dev/icons?i=tensorflow"/>
-<img title="AWS" src="https://skillicons.dev/icons?i=aws"/>
-<img title="Azure" src="https://skillicons.dev/icons?i=azure"/>
-<img title="Google Cloud" src="https://skillicons.dev/icons?i=gcp"/>
-<img title="Docker" src="https://skillicons.dev/icons?i=docker"/>
-<img title="Kubernetes" src="https://skillicons.dev/icons?i=kubernetes"/>
-</p>
-
-### 🗄️ Databases & Tools
-<p align="center">
-<img title="MongoDB" src="https://skillicons.dev/icons?i=mongodb"/>
-<img title="MySQL" src="https://skillicons.dev/icons?i=mysql"/>
-<img title="Git" src="https://skillicons.dev/icons?i=git"/>
-<img title="Jenkins" src="https://skillicons.dev/icons?i=jenkins"/>
-</p>
-
-</details>
 
 
 <p align="center">
