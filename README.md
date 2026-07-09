@@ -61,7 +61,4 @@
 
 
 
-<p align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vignayreddy&theme=tokyonight" width="48%"/>
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vignayreddy&theme=tokyo-night" />
